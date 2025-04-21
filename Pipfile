@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 redis = "*"
 watchdog = "*"
+llama-cpp-python = "*"
 
 [dev-packages]
 
